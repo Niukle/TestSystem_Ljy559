@@ -1,10 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: zyq914014125
-  Date: 2020/11/11
-  Time: 15:04
-  To change this template use File | Settings | File Templates.
---%>
+
 <%
     String path = request.getContextPath() + "/";
 %>
